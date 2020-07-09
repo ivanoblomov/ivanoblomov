@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+- 🔭 I’m currently:
+    - working on some personal iOS apps
+    - consulting part-time with a great socially-responsible startup, [Tribe](https://jointribe.us)
+- 🌱 I’m currently learning:
+    - the latest iOS 14 APIs
+- 👯 I’m looking to help early-stage startups with their iOS or Rails needs. Check out [some highlights](http://foveacentral.com/clients/) from my work.
 
 <!--
 **ivanoblomov/ivanoblomov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
