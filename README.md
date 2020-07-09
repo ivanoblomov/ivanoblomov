@@ -4,8 +4,8 @@
     - working on some personal iOS apps
     - consulting part-time with a great socially-responsible startup, [Tribe](https://jointribe.us)
 - 🌱 and learning:
-    - the latest iOS 14 APIs
-- 👯 But also looking to help early-stage startups with their iOS or Rails needs.
+    - the latest iOS 14 APIs.
+- 👯 Meanwhile, I'm also looking to help early-stage startups with their iOS or Rails needs.
     - Check out [some highlights](http://foveacentral.com/clients/) from my work.
     - [Reach out](http://foveacentral.com/contact-us) to find out how I can help!
 
