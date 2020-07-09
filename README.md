@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋, Rod here.
 
 - 🔭 I’m currently:
     - working on some personal iOS apps
