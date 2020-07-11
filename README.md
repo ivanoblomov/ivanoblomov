@@ -1,7 +1,7 @@
-# Hi there 👋, Rod here.
+# 👋 there, Rod here.
 
 - 🔭 I’m currently:
-    - working on some personal iOS apps
+    - updating some of my iOS apps
     - consulting part-time with a great socially-responsible startup, [Tribe](https://jointribe.us)
 - 🌱 and learning:
     - the latest iOS 14 APIs.
