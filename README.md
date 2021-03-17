@@ -1,4 +1,4 @@
-# 👋 there, Rod here.
+# Rails & iOS Mercenary
 
 - 🔭 I’m currently:
     - working with WeHealth to help underserved communities [get access to Covid-19 vaccinations](https://wehealthsite.wordpress.com/2021/03/16/the-covid-vaccine-in-under-served-communities/).
