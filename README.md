@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently:
     - working with WeHealth to help underserved communities [get access to Covid-19 vaccinations](https://wehealthsite.wordpress.com/2021/03/16/the-covid-vaccine-in-under-served-communities/).
-    - working on new versions my iOS apps
+    - working on new versions of my iOS apps
 - 🌱 and learning:
     - the latest iOS 14 APIs.
 - 👯 Meanwhile, I'm also looking to help early-stage startups with their iOS or Rails needs.
