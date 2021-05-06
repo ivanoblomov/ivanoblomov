@@ -1,7 +1,7 @@
 # Rails & iOS Mercenary
 
 - 🔭 I’m currently:
-    - working with WeHealth to help underserved communities [get access to Covid-19 vaccinations](https://wehealthsite.wordpress.com/2021/03/16/the-covid-vaccine-in-under-served-communities/). If you're in LA County, DM your zip code to [@vaccinesignup](https://twitter.com/vaccinesignup) and we'll let you know about vaccine appointments as the become available.
+    - working with WeHealth to help underserved communities [get access to Covid-19 vaccinations](https://wehealthsite.wordpress.com/2021/03/16/the-covid-vaccine-in-under-served-communities/). If you're in LA County, DM your zip code to [@vaccinesignup](https://twitter.com/vaccinesignup) and we'll let you know about vaccine appointments as they become available.
     - working on new versions of my iOS apps
 - 🌱 and learning:
     - the latest iOS 14 APIs.
